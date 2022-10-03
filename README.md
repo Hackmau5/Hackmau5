@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Hackmau5
 - 👀 I’m interested in information system
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me mau5hack@gmail.com
 
